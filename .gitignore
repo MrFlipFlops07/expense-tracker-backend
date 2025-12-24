@@ -1,0 +1,4 @@
+.env
+.aws/
+node_modules/
+*.log
